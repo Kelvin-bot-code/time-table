@@ -1,10 +1,35 @@
-content:
-timetable.html
-    
+Ex03 Time Table
+Date:
+AIM
+To write a html webpage page to display your slot timetable.
+
+ALGORITHM
+STEP 1
+Create a Django-admin Interface.
+
+STEP 2
+Create a static folder and inert HTML code.
+
+STEP 3
+Create a simple table using
+
+tag in html.
+STEP 4
+Add header row using
+
+tag.
+STEP 5
+Add your timetable using
+
+tag.
+STEP 6
+Execute the program using runserver command.
+
+PROGRAM
 <!doctype html>
 <html lang="en">
-    
     <head>
+        
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>TIME TABLE</title>
@@ -16,7 +41,9 @@ timetable.html
     </head>
     <br>
     <body background ="https://wallpapers.com/images/hd/simple-pink-av9ur5pkqm4b73zv.jpg">
+        
         <center>  
+          
         <table width="700px" border="3">
             <p> TIMETABLE - KELVIN (24900477)</p>
                 <tr>
@@ -39,6 +66,7 @@ timetable.html
                     <th bgcolor="blue">tuesday</th>
                     <td bgcolor="yellow">EDM</td>
                     <td bgcolor="yellow">calculas</td>
+            
                     <td bgcolor="yellow">crypto</td>
                     <td bgcolor="yellow">FREE</td>
                     </tr>
@@ -46,6 +74,7 @@ timetable.html
                     <th bgcolor="blue">wednesday</th>
                     <td bgcolor="yellow">EDM</td>
                     <td bgcolor="yellow">CDS</td>
+            
                     <td bgcolor="yellow">mentor meet</td>
                     <td bgcolor="yellow">FREE</td>
                 </tr>   
@@ -53,13 +82,16 @@ timetable.html
                     <th bgcolor="blue">thursday</th>
                      <td bgcolor="yellow">physics</td>
                     <td bgcolor="yellow">python</td>
+            
                     <td bgcolor="yellow">web</td>
                       <td bgcolor="yellow">FREE</td>
+                    
                 </tr> 
                 <tr>
                     <th bgcolor="blue">friday</th>
                     <td bgcolor="yellow">FREE</td>
                     <td bgcolor="yellow">FREE</td>
+            
                     <td bgcolor="yellow">python</td>
                     <td bgcolor="yellow">FREE</td>
                 </tr>   
@@ -67,6 +99,7 @@ timetable.html
                     <th bgcolor="blue">saturday</th>
                     <td bgcolor="yellow"></td>
                     <td bgcolor="yellow">physics</td>
+            
                     <td bgcolor="yellow">calculus</td>
                     <td bgcolor="yellow">web</td>
                 </tr>
@@ -74,8 +107,7 @@ timetable.html
         </center>
         <br>
             <center>
-            <table width="500px" border="3" background="https://static.vecteezy.com/system/resources/thumbnails/018/800/338/small/colorful-grunge-art-painting-effect-of-light-hot-colored-of-sunset-clouds-cloud on-the-sunset-sky-background-burning-background-abstract-watercolor-grunge-background-design-vector.jpg"> 
-            <tr>
+            <table width="500px" border="3" background="https://static.vecteezy.com/system/resources/thumbnails/018/800/338/small/colorful-grunge-art-painting-effect-of-light-hot-colored-of-sunset-clouds-cloud-on-the-sunset-sky-background-burning-background-abstract-watercolor-grunge-background-design-vector.jpg"> <tr>
                 <th>s.no</th>
                 <th>Subject code</th>
                 <th>Subject Name</th>
@@ -115,7 +147,7 @@ timetable.html
                 <td>SH3214</td>
                 <td>Physics for Quantum Computing</td>
             </tr>
-        </table>
+        </table>                                                                                                                                                                                                
         </center>
         <footer>
             <p1>kelvin<br>
@@ -126,7 +158,7 @@ timetable.html
         
     </body>
 </!doctype html>
+OUTPUT
+![Screenshot 2024-11-25 104232](https://github.com/user-attachments/assets/2a9e9ec2-f5b0-4086-b855-8571b18e4cc1)
 
-OUTPUT:
-      ![Screenshot 2024-11-25 104232](https://github.com/user-attachments/assets/0d0224c7-dda6-45c5-aecb-f07aac7cdef0)
-
+RESULT
