@@ -31,7 +31,6 @@ Execute the program using runserver command.
 <!doctype html>
 <html lang="en">
     <head>
-        
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>TIME TABLE</title>
@@ -42,7 +41,7 @@ Execute the program using runserver command.
      </center>
     </head>
     <br>
-    <body background ="https://wallpapers.com/images/hd/simple-pink-av9ur5pkqm4b73zv.jpg">
+    <body background ="https://wallpapers.com/images/hd/star-colorful-surface-u2ppwaaeqn9ygk0i.webp">
         
         <center>  
           
@@ -149,19 +148,14 @@ Execute the program using runserver command.
                 <td>SH3214</td>
                 <td>Physics for Quantum Computing</td>
             </tr>
-        </table>                                                                                                                                                                                                
+        </table>
         </center>
-        <footer>
-            <p1>kelvin<br>
-                CSE<br>
-                Saveetha engineering college<br>
-            </p1>
-        </footer>
         
     </body>
 </!doctype html>
 ```
 ## OUTPUT
-![Screenshot 2024-11-25 104232](https://github.com/user-attachments/assets/2a9e9ec2-f5b0-4086-b855-8571b18e4cc1)
+![Screenshot 2024-12-06 130142](https://github.com/user-attachments/assets/82d06131-ffec-4b57-b19d-b48e235303a5)
+
 
 RESULT
